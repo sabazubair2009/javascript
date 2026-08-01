@@ -8,7 +8,7 @@ This repository contains my JavaScript practice programs and basic concepts.
 - Functions
 - Sum Programs
 - Loops
-- For Loops
+- Types of Loops (for, while,do-while)
 
 ## Purpose
 
