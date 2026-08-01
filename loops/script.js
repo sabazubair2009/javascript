@@ -6,7 +6,10 @@ for (let a = 1; a < 10; a++) {
 for (let a = 1; a < 10; a++) {
   console.count("Saba");
 }
-// condition 2
-for (let a = 1; a < 10; a= a + 4) {
-  console.log(a);
+// Calculating the sum 
+let num = 0;
+for (let i = 1; i <= 5; i++) {
+  num = num + i;  
+//the loop is working like this 0+1+2+3+4+5= 15
 }
+console.log("num =", num);
